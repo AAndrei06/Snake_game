@@ -1,2 +1,2 @@
 # Snake_game
-snake game made in python
+Snake game made in python
