@@ -1,2 +1,2 @@
 # Snake_game
-Snake game made in python
+This is a snake game made in Python with the Turtle module.
